@@ -1,2 +1,7 @@
 在終端打python TextBlob.py
 然後輸入的話打英文比較好
+
+對了 要先載這些
+pip install textblob
+pip install nltk
+python -m textblob.download_corpora
