@@ -4,4 +4,5 @@
 對了 要先載這些
 pip install textblob
 pip install nltk
+pip install streamlit
 python -m textblob.download_corpora
